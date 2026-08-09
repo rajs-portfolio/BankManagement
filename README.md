@@ -26,15 +26,6 @@ A simple **Bank Management System** developed in **Java** that allows users to p
 
 ---
 
-## 📂 Project Structure
-
-```
-BankManagementSystem/
-│── BankManagement.java
-└── README.md
-```
-
----
 
 ## ▶️ How to Run
 
@@ -125,24 +116,8 @@ Thank You!
 
 ---
 
-## 🚀 Future Improvements
-
-- User Login Authentication
-- Multiple Bank Accounts
-- PIN Verification
-- Transaction History
-- Money Transfer
-- File Handling for Data Persistence
-- Interest Calculation
-- Graphical User Interface (Java Swing/JavaFX)
-- Database Integration (MySQL)
-
----
-
 ## 👨‍💻 Author
 
 **Raj Sharma**
 
 ---
-
-⭐ If you like this project, don't forget to **star** the repository!
