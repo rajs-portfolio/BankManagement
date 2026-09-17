@@ -1,123 +1,102 @@
 # 🏦 Bank Management System
 
-A simple **Bank Management System** developed in **Java** that allows users to perform basic banking operations through a console-based interface. This project is ideal for beginners who want to understand Java fundamentals such as methods, loops, conditional statements, and user input handling.
+A **console-based Bank Management System** built with **Java**, designed to help beginners practice core Java concepts like methods, loops, conditionals, and handling user input. It simulates basic banking tasks through a simple menu-driven interface.
 
 ---
 
-## 📌 Features
-
-- 💰 Check account balance
-- ➕ Deposit money
-- ➖ Withdraw money
-- ⚠️ Insufficient balance validation
-- 🔄 Menu-driven interface
-- 🚪 Exit option
+## 📌 Key Features
+- 💰 View account balance
+- ➕ Add funds (deposit)
+- ➖ Withdraw funds
+- ⚠️ Handles insufficient balance cases
+- 🔄 Interactive menu system
+- 🚪 Option to exit the program
 
 ---
 
-## 🛠️ Technologies Used
-
+## 🛠️ Built With
 - Java
-- Scanner Class
-- Methods
-- Loops
-- Switch Case
-- Conditional Statements
+- Scanner Class (for input)
+- Methods & Loops
+- Switch-Case Statements
+- Conditional Logic
 
 ---
 
+## ▶️ Getting Started
 
-## ▶️ How to Run
-
-### 1. Clone the repository
-
+### 1. Clone this repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/BankManagementSystem.git
 ```
 
-### 2. Open the project folder
-
+### 2. Navigate into the project directory
 ```bash
 cd BankManagementSystem
 ```
 
-### 3. Compile the program
-
+### 3. Compile the source code
 ```bash
 javac BankManagement.java
 ```
 
-### 4. Run the program
-
+### 4. Run the application
 ```bash
 java BankManagement
 ```
 
 ---
 
-## 📸 Sample Output
-
+## 📸 Sample Run
 ```
 ===== BANK MANAGEMENT =====
 1. Check Balance
 2. Deposit
 3. Withdraw
 4. Exit
-
 Enter your choice: 1
-
 Current Balance: ₹1000.0
-
 ===== BANK MANAGEMENT =====
 1. Check Balance
 2. Deposit
 3. Withdraw
 4. Exit
-
 Enter your choice: 2
 Enter amount: ₹500
-
 ₹500.0 deposited successfully.
-
 ===== BANK MANAGEMENT =====
 1. Check Balance
 2. Deposit
 3. Withdraw
 4. Exit
-
 Enter your choice: 3
 Enter amount: ₹200
-
 ₹200.0 withdrawn successfully.
-
 ===== BANK MANAGEMENT =====
 1. Check Balance
 2. Deposit
 3. Withdraw
 4. Exit
-
 Enter your choice: 4
-
 Thank You!
 ```
 
 ---
 
-## 🧠 Concepts Covered
-
-- Object-Oriented Programming (Basic)
-- Static Variables
-- Static Methods
-- User Input using Scanner
-- While Loop
-- Switch Statement
-- If-Else Conditions
-- Basic Banking Logic
+## 🧠 What You'll Learn
+- Basics of Object-Oriented Programming
+- Static Variables & Methods
+- Taking Input with Scanner
+- While Loops
+- Switch Statements
+- If-Else Conditional Logic
+- Simple Banking System Design
 
 ---
 
 ## 👨‍💻 Author
-
 **Raj Sharma**
 
 ---
+
+Feel free to tweak the emojis, section order, or wording further if you want a different tone (more formal, more minimal, etc.) — happy to adjust.
