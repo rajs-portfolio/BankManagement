@@ -1,34 +1,36 @@
 # 🏦 Bank Management System
 
-A simple **console-based Bank Management System built using Java**. This project simulates basic banking operations through an interactive menu-driven interface and is designed to help beginners strengthen their understanding of core Java programming concepts.
+A beginner-friendly **Bank Management System developed using Java** that simulates essential banking operations through a simple, menu-driven console interface. This project is designed to help beginners practice Java fundamentals, improve programming logic, and understand basic banking operations.
 
 ---
 
 ## 📌 Features
 
-- 💰 Check account balance
-- ➕ Deposit money
-- ➖ Withdraw money
-- ⚠️ Prevent withdrawals when the balance is insufficient
-- 🔄 Interactive menu-driven interface
-- 🚪 Exit the application safely
+- 💰 **Check Balance** – View the current account balance.
+- ➕ **Deposit Money** – Add money to the account.
+- ➖ **Withdraw Money** – Withdraw money from the account.
+- ⚠️ **Insufficient Balance Validation** – Prevent withdrawals that exceed the available balance.
+- 🔄 **Interactive Menu** – Navigate between banking operations using a menu.
+- 🚪 **Safe Exit** – Exit the application when finished.
 
 ---
 
-## 🛠️ Technologies & Concepts Used
+## 🛠️ Technologies and Concepts Used
 
-- **Java**
-- **Scanner Class** for user input
-- **Methods** for code organization
-- **While Loops** for continuous menu interaction
-- **Switch-Case** for menu selection
-- **If-Else Statements** for decision-making
-- **Static Variables & Methods**
-- Basic **Object-Oriented Programming** concepts
+- **Java** – Core programming language.
+- **Scanner Class** – Accept user input through the console.
+- **Methods** – Organize code into reusable blocks.
+- **While Loop** – Keep the application running until the user exits.
+- **Switch-Case** – Handle menu selections.
+- **If-Else Statements** – Implement conditional logic and validation.
+- **Static Variables and Methods** – Manage shared data and operations.
+- **Basic OOP Concepts** – Build a foundation for object-oriented programming.
 
 ---
 
 ## ▶️ Getting Started
+
+Follow these steps to run the project on your computer.
 
 ### 1. Clone the Repository
 
@@ -36,13 +38,13 @@ A simple **console-based Bank Management System built using Java**. This project
 git clone https://github.com/YOUR_USERNAME/BankManagementSystem.git
 ```
 
-### 2. Navigate to the Project Directory
+### 2. Open the Project Directory
 
 ```bash
 cd BankManagementSystem
 ```
 
-### 3. Compile the Program
+### 3. Compile the Java Program
 
 ```bash
 javac BankManagement.java
@@ -75,7 +77,7 @@ Current Balance: ₹1000.0
 4. Exit
 
 Enter your choice: 2
-Enter amount: ₹500
+Enter amount: 500
 ₹500.0 deposited successfully.
 
 ===== BANK MANAGEMENT =====
@@ -85,7 +87,7 @@ Enter amount: ₹500
 4. Exit
 
 Enter your choice: 3
-Enter amount: ₹200
+Enter amount: 200
 ₹200.0 withdrawn successfully.
 
 ===== BANK MANAGEMENT =====
@@ -102,25 +104,14 @@ Thank You!
 
 ## 🧠 Learning Objectives
 
-This project helps you practice and understand:
+By building this project, you can gain practical experience with:
 
-- Java fundamentals
-- Object-Oriented Programming basics
-- Variables and data types
-- Static variables and methods
-- User input using `Scanner`
-- Loops and program flow
-- Switch-case statements
-- If-else conditional logic
-- Methods and modular programming
-- Basic banking system logic
-
----
-
-## 👨‍💻 Author
-
-**Raj Sharma**
-
----
-
-⭐ If you find this project useful for learning Java, feel free to modify it and add new features!
+- Java programming fundamentals.
+- Variables, data types, and operators.
+- User input using the `Scanner` class.
+- Loops and control flow.
+- Switch-case and conditional statements.
+- Methods and modular programming.
+- Static variables and methods.
+- Basic object-oriented programming concepts.
+- Implementing simple banking logic and balance
